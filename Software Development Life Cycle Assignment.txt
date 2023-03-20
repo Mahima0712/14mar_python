@@ -1,0 +1,25 @@
+PYTHON-SDLC ASSIGNMENT
+
+Software Development Life Cycle (SDLC)
+
+ For software development, there is a specific programming language like Java, Python, C/C++, etc. The entire software development process includes 6 stages. Software Development Life Cycle (SDLC) is the common term to summarize these 6 stages. 
+
+These 6 stages are discussed below. 
+
+1) Requirement Gathering:
+         The information from this analysis forms the building block of a basic project. The quality proof of the project is a result of planning. Thus, in this stage, the basic project is designed with all the available information. 
+
+2) Analysis:
+         In this stage, all the requirements for the target software are specified.This is fulfilled by utilizing SRS (Software Requirement Specification). This is a sort of document that specifies all those things that need to be defined and created during the entire project cycle. 
+
+3) Designing:
+         SRS is a reference for software designers to come out with the best architecture for the software. Designing contain frontend part that uses HTML, CSS, JAVA SCRIPT.
+
+4) Coding:
+         It is important for the coders to follow the protocols set by the association. Conventional programming tools like compilers, interpreters, debuggers, etc. are also put into use at this stage. Some popular languages like C/C++, Python, Java, etc. are put into use as per the software regulations. 
+
+5) Testing:
+        After the development of the product, testing of the software is necessary to ensure its smooth execution. Although, minimal testing is conducted at every stage of SDLC. Therefore, at this stage, all the probable flaws are tracked, fixed, and retested.
+
+6) Maintainence
+        After detailed testing, the conclusive product is released in phases as per the organization’s strategy. Then it is tested in a real industrial environment. Because it is important to ensure its smooth performance. If it performs well, the organization sends out the product as a whole. After retrieving beneficial feedback, the company releases it as it is or with auxiliary improvements to make it further helpful for the customers.
